@@ -1,0 +1,2 @@
+nest g mo 创建模块
+nest g co 创建控制器(控制器)
