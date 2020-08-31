@@ -6,3 +6,6 @@ put delete 求情和Url路径参数
 6 typegoose模型定义（用数据库保存帖子，创建，修改，更新）
 安装包  
 yarn add @hasezoey/typegoose@next mongoose @types/mongoose
+安装 @type/mongoose 就有提示
+
+7 7分钟完成帖子CRUD操作API
